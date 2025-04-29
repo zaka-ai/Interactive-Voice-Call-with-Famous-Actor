@@ -1,6 +1,6 @@
 <div align="center">
 
-# Interactive Voice Call with Maguy Abou Ghosn
+# Interactive Voice Call with Maguy Bou Ghosn
 
 [![Colab](https://img.shields.io/badge/Colab-Interface-blue?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/drive/1a8S8cqiVpaz2R4PCb7eH6zZbHiXvPIJF) [![Colab](https://img.shields.io/badge/Colab-RVC_DEMO-blue?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/drive/16xpJLQ87Nqv3VWVTyxKgfLuZnI3ST9zi)
 
@@ -31,14 +31,14 @@ The system combines four key components to create a seamless voice interaction p
 ---
 ### 📂 Project Files
 
-- **`Interactive_Voice_Call.ipynb`:** Main notebook containing the complete implementation of the interactive voice system
+- **`Interactive_Voice_Call_with_Famous_Actor.ipynb`:** Main notebook containing the complete implementation of the interactive voice system
 - **`RVC.ipynb`:** Separate notebook for voice conversion implementation using Retrieval-based Voice Conversion
 
 ---
 
 ### 🚀 How to Run the Interactive Voice Call System
 
-1. **Open the Interactive_Voice_Call.ipynb in Google Colab.**
+1. **Open the Interactive_Voice_Call_with_Famous_Actor.ipynb in Google Colab.**
 2. **Set up your Gemini API key** (optional, but improves transcription accuracy):
 
     - Get your API key from [Google AI Studio](https://aistudio.google.com/app/apikey)
