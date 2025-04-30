@@ -10,7 +10,7 @@
 ---
 
 ### 📝 Project Overview
-This project creates a real-time, voice-based conversational experience with famous Lebanese actress Maguy Abou Ghosn. The system uses advanced AI technologies to enable natural voice interactions in authentic Lebanese Arabic dialect.
+This project creates a real-time, voice-based conversational experience with famous Lebanese actress Maguy Bou Ghosn. The system uses advanced AI technologies to enable natural voice interactions in authentic Lebanese Arabic dialect.
 The system combines four key components to create a seamless voice interaction pipeline:
 
 - **Speech Recognition (STT):** Converts user's spoken Lebanese Arabic to text. 
